@@ -85,6 +85,9 @@ The program **CURRENTLY DOES NOT SUPPORT** MacOS or Linux, but support for these
 ### Option 2: Use the direct link
 [https://mega.nz/file/ZJI1wIIQ#g-2q8fRpabSw5_JlZwk9_OOKb8m_zSqO3TipqmXDgpQ](https://mega.nz/file/ZJI1wIIQ#g-2q8fRpabSw5_JlZwk9_OOKb8m_zSqO3TipqmXDgpQ)
 
+**✅ File verified (Verify File Integrity):**
+**SHA256 Hash:** `988FBCD75E577AC8A8B4B21CCD21FDF1A72F16D806CC1B2F5405ECCA6F955874` V 1.0.0
+
 ---
 
 <div align="center">
